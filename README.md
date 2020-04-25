@@ -1,2 +1,2 @@
 # omna
-yeah coming soon
+coming soon
